@@ -1,0 +1,16 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "百度指数" [url=https://index.baidu.com/v2/main/index.html#/trend/juvelook?words=juvelook,%e4%b9%94%e9%9b%85%e9%9c%b2,sculptra,gouri,radiesse]
+- image [ref=e1]
+- link "百度指数" [ref=e2]
+- link "首页" [ref=e3]
+- link "最新动态" [ref=e4]
+- link "行业排行" [ref=e5]
+- generic "限时福利" [ref=e6]
+- link "帮助中心" [ref=e8]
+- generic "妍花盛开" [ref=e9]
+- textbox "请输入你感兴趣的词" [ref=e10] [focused] [placeholder="请输入你感兴趣的词"]: "juvelook,乔雅露,sculptra,gouri,radiesse"
+- text: "关键词 juvelook,乔雅露,sculptra,gouri,radiesse 未被收录，如要查看相关数据，您需要购买创建新词的权限。\n        购买创建新词的权限后，您可以添加自己关注的关键词，添加后百度指数系统将在次日更新数据。"
+- link "立即购买" [ref=e98]
+- link [ref=e65]
+- iframe:
+  - button "open selection tools" [ref=f3e1]

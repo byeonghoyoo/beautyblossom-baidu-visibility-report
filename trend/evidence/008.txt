@@ -1,0 +1,163 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "百度指数" [url=https://index.baidu.com/v2/main/index.html#/trend/%E7%8E%BB%E5%B0%BF%E9%85%B8%E5%A4%9A%E5%B0%91%E9%92%B1?words=%E7%8E%BB%E5%B0%B…]
+- image [ref=e1]
+- link "百度指数" [ref=e2]
+- link "首页" [ref=e3]
+- link "最新动态" [ref=e4]
+- link "行业排行" [ref=e5]
+- generic "限时福利" [ref=e6]
+- link "帮助中心" [ref=e8]
+- generic "妍花盛开" [ref=e9]
+- textbox "请输入你感兴趣的词" [ref=e10] [focused] [placeholder="请输入你感兴趣的词"]: "玻尿酸多少钱,玻尿酸填充,玻尿酸隆鼻,玻尿酸丰唇,玻尿酸丰下巴"
+- generic [ref=e85] [scrollable]:
+  - listitem "玻尿酸多少钱 关键词" [ref=e86]
+  - listitem "玻尿酸填充 关键词" [ref=e87]
+  - listitem "玻尿酸隆鼻 关键词" [ref=e88]
+  - listitem "玻尿酸丰唇 关键词" [ref=e89]
+  - listitem "玻尿酸丰下巴 关键词" [ref=e90]
+- generic "趋势研究" [ref=e12]
+- generic "需求图谱" [ref=e13]
+- generic "人群画像" [ref=e14]
+- text: "关键词"
+- textbox "玻尿酸多少钱" [ref=e79]
+- textbox "玻尿酸填充" [ref=e80]
+- textbox "玻尿酸隆鼻" [ref=e81]
+- textbox "玻尿酸丰唇" [ref=e82]
+- textbox "玻尿酸丰下巴" [ref=e83]
+- generic "确定" [ref=e84]
+- listitem "搜索指数?" [ref=e21]
+- label [ref=e22]:
+  - checkbox "对比时间段" [ref=e23] [hidden]
+  - text: "对比时间段"
+- text: "|"
+- button "2026-09-21 ~ 2026-10-20" [ref=e24]
+- text: "|"
+- button "近30天 ▾" [ref=e25]
+- text: "|"
+- button "PC+移动 ▾" [ref=e26]
+- text: "|"
+- button "全国 ▾" [ref=e27]
+- text: "|"
+- listbox [ref=e28]:
+  - label [ref=e29]:
+    - option "新闻头条" [ref=e30] [hidden] [checked] [selected]
+    - text: "新闻头条"
+  - label [ref=e31]:
+    - option "平均值" [ref=e32] [hidden]
+    - text: "平均值"
+- canvas [ref=e33] [size=1256x360]
+- canvas [ref=e34] [size=1256x400]
+- text: "2012\n         \n            2013\n         \n            2014\n         \n            2015\n         \n            2016\n         \n            2017\n         \n          …[+244 chars]"
+- columnheader: "关键词"
+- columnheader: "整体日均值"
+- columnheader: "移动日均值"
+- columnheader: "整体同比"
+- columnheader: "整体环比"
+- columnheader: "移动同比"
+- columnheader: "移动环比"
+- cell: "玻尿酸多少钱"
+- cell: "6"
+- cell: "4"
+- cell: "-94%"
+- cell: "-25%"
+- cell: "-95%"
+- cell: "-48%"
+- cell: "玻尿酸填充"
+- cell: "117"
+- cell: "88"
+- cell: "6%"
+- cell: "18%"
+- cell: "5%"
+- cell: "5%"
+- cell: "玻尿酸隆鼻"
+- cell: "34"
+- cell: "32"
+- cell: "-69%"
+- cell: "-24%"
+- cell: "-63%"
+- cell: "-22%"
+- cell: "玻尿酸丰唇"
+- cell: "52"
+- cell: "41"
+- cell: "-42%"
+- cell: "-15%"
+- cell: "-47%"
+- cell: "-29%"
+- cell: "玻尿酸丰下巴"
+- cell: "0"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell: "-"
+- cell: "-"
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- listitem "资讯关注?" [ref=e35]
+- listitem "资讯指数" [ref=e36]
+- button "2026-09-21 ~ 2026-10-20" [ref=e37]
+- text: "|"
+- button "近30天 ▾" [ref=e38]
+- text: "|"
+- button "全国 ▾" [ref=e39]
+- listbox [ref=e40]:
+  - label [ref=e41]:
+    - option "内容头条" [ref=e42] [hidden] [checked] [selected]
+    - text: "内容头条"
+  - label [ref=e43]:
+    - option "平均值" [ref=e44] [hidden]
+    - text: "平均值"
+- canvas [ref=e45] [size=1256x360]
+- canvas [ref=e46] [size=1256x400]
+- text: "2018\n         \n            2019\n         \n            2020\n         \n            2021\n         \n            2022\n         \n            2023\n         \n          …[+82 chars]"
+- columnheader: "关键词"
+- columnheader: "日均值"
+- columnheader: "同比"
+- columnheader: "环比"
+- columnheader
+- cell: "玻尿酸多少钱"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell
+- cell: "玻尿酸填充"
+- cell: "325"
+- cell: "-94%"
+- cell: "-75%"
+- cell
+- cell: "玻尿酸隆鼻"
+- cell: "30"
+- cell: "-74%"
+- cell: "-50%"
+- cell
+- cell: "玻尿酸丰唇"
+- cell: "259"
+- cell: "-13%"
+- cell: "-35%"
+- cell
+- cell: "玻尿酸丰下巴"
+- cell: "3"
+- cell: "178%"
+- cell: "333%"
+- cell
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- heading "帮助" [level=4]:
+  - link "帮助" [ref=e47]
+- link "产品简介" [ref=e48]
+- link "使用方法" [ref=e49]
+- link "名词解释" [ref=e50]
+- link "模块简介" [ref=e51]
+- heading "相关数据服务" [level=4]
+- link "百度营销中心" [ref=e52]
+- link "百度智能云" [ref=e53]
+- link "百度推广" [ref=e54]
+- link "企业推广" [ref=e55]
+- heading "关注我们" [level=4]
+- link [ref=e56]
+- link [ref=e57]
+- text: "©2026 Baidu"
+- link "使用百度指数前必读" [ref=e58]
+- link "百度指数版权声明" [ref=e59]
+- text: "京ICP证030173号"
+- link "手机版" [ref=e60]
+- link [ref=e65]
+- iframe:
+  - button "Open selection tools" [ref=f3e1]

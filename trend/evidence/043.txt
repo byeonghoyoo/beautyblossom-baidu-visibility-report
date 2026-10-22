@@ -1,0 +1,163 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "百度指数" [url=https://index.baidu.com/v2/main/index.html#/trend/%e6%b0%b4%e5%85%89%e9%92%88?words=%e6%b0%b4%e5%85%89%e9%92%88,%e7%83%ad%e7%8e%…]
+- image [ref=e1]
+- link "百度指数" [ref=e2]
+- link "首页" [ref=e3]
+- link "最新动态" [ref=e4]
+- link "行业排行" [ref=e5]
+- generic "限时福利" [ref=e6]
+- link "帮助中心" [ref=e8]
+- generic "妍花盛开" [ref=e9]
+- textbox "请输入你感兴趣的词" [ref=e10] [focused] [placeholder="请输入你感兴趣的词"]: "水光针,热玛吉,肉毒素,玻尿酸,激光脱毛"
+- generic [ref=e85] [scrollable]:
+  - listitem "水光针 关键词" [ref=e315]
+  - listitem "热玛吉 关键词" [ref=e316]
+  - listitem "肉毒素 关键词" [ref=e317]
+  - listitem "玻尿酸 关键词" [ref=e318]
+  - listitem "激光脱毛 关键词" [ref=e319]
+- generic "趋势研究" [ref=e12]
+- generic "需求图谱" [ref=e13]
+- generic "人群画像" [ref=e14]
+- text: "关键词"
+- textbox "水光针" [ref=e309]
+- textbox "热玛吉" [ref=e310]
+- textbox "肉毒素" [ref=e311]
+- textbox "玻尿酸" [ref=e312]
+- textbox "激光脱毛" [ref=e313]
+- generic "确定" [ref=e314]
+- listitem "搜索指数?" [ref=e260]
+- label [ref=e261]:
+  - checkbox "对比时间段" [ref=e262] [hidden]
+  - text: "对比时间段"
+- text: "|"
+- button "2026-09-21 ~ 2026-10-20" [ref=e263]
+- text: "|"
+- button "近30天 ▾" [ref=e264]
+- text: "|"
+- button "PC+移动 ▾" [ref=e265]
+- text: "|"
+- button "全国 ▾" [ref=e266]
+- text: "|"
+- listbox [ref=e267]:
+  - label [ref=e268]:
+    - option "新闻头条" [ref=e269] [hidden] [checked] [selected]
+    - text: "新闻头条"
+  - label [ref=e270]:
+    - option "平均值" [ref=e271] [hidden]
+    - text: "平均值"
+- canvas [ref=e272] [size=1256x360]
+- canvas [ref=e288] [size=1256x400]
+- text: "2012\n         \n            2013\n         \n            2014\n         \n            2015\n         \n            2016\n         \n            2017\n         \n          …[+244 chars]"
+- columnheader: "关键词"
+- columnheader: "整体日均值"
+- columnheader: "移动日均值"
+- columnheader: "整体同比"
+- columnheader: "整体环比"
+- columnheader: "移动同比"
+- columnheader: "移动环比"
+- cell: "水光针"
+- cell: "1,515"
+- cell: "1,434"
+- cell: "-58%"
+- cell: "-4%"
+- cell: "-59%"
+- cell: "-4%"
+- cell: "热玛吉"
+- cell: "875"
+- cell: "774"
+- cell: "14%"
+- cell: "24%"
+- cell: "20%"
+- cell: "25%"
+- cell: "肉毒素"
+- cell: "293"
+- cell: "217"
+- cell: "-47%"
+- cell: "-14%"
+- cell: "-54%"
+- cell: "-19%"
+- cell: "玻尿酸"
+- cell: "427"
+- cell: "337"
+- cell: "-42%"
+- cell: "-30%"
+- cell: "-47%"
+- cell: "-35%"
+- cell: "激光脱毛"
+- cell: "387"
+- cell: "331"
+- cell: "-14%"
+- cell: "4%"
+- cell: "-16%"
+- cell: "3%"
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- listitem "资讯关注?" [ref=e273]
+- listitem "资讯指数" [ref=e274]
+- button "2026-09-21 ~ 2026-10-20" [ref=e289]
+- text: "|"
+- button "近30天 ▾" [ref=e275]
+- text: "|"
+- button "全国 ▾" [ref=e276]
+- listbox [ref=e277]:
+  - label [ref=e278]:
+    - option "内容头条" [ref=e279] [hidden] [checked] [selected]
+    - text: "内容头条"
+  - label [ref=e280]:
+    - option "平均值" [ref=e281] [hidden]
+    - text: "平均值"
+- canvas [ref=e290] [size=1256x360]
+- canvas [ref=e291] [size=1256x400]
+- text: "资讯指数概览?"
+- columnheader: "关键词"
+- columnheader: "日均值"
+- columnheader: "同比"
+- columnheader: "环比"
+- columnheader
+- cell: "水光针"
+- cell: "4,175"
+- cell: "-80%"
+- cell: "-16%"
+- cell
+- cell: "热玛吉"
+- cell: "4,856"
+- cell: "-86%"
+- cell: "-37%"
+- cell
+- cell: "肉毒素"
+- cell: "12,182"
+- cell: "-13%"
+- cell: "-49%"
+- cell
+- cell: "玻尿酸"
+- cell: "49,197"
+- cell: "-67%"
+- cell: "-37%"
+- cell
+- cell: "激光脱毛"
+- cell: "1,216"
+- cell: "-89%"
+- cell: "-32%"
+- cell
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- heading "帮助" [level=4]:
+  - link "帮助" [ref=e47]
+- link "产品简介" [ref=e48]
+- link "使用方法" [ref=e49]
+- link "名词解释" [ref=e50]
+- link "模块简介" [ref=e51]
+- heading "相关数据服务" [level=4]
+- link "百度营销中心" [ref=e52]
+- link "百度智能云" [ref=e53]
+- link "百度推广" [ref=e54]
+- link "企业推广" [ref=e55]
+- heading "关注我们" [level=4]
+- link [ref=e56]
+- link [ref=e57]
+- text: "©2026 baidu"
+- link "使用百度指数前必读" [ref=e58]
+- link "百度指数版权声明" [ref=e59]
+- text: "京icp证030173号"
+- link "手机版" [ref=e60]
+- link [ref=e65]
+- iframe:
+  - button "open selection tools" [ref=f3e1]

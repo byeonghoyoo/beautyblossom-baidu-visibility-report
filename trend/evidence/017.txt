@@ -1,0 +1,18 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "百度指数" [url=https://index.baidu.com/v2/main/index.html#/trend/ultherapy?words=ultherapy,ultherapy%20prime,%e8%b6%85%e5%a3%b0%e5%88%80,%e7%be…]
+- image [ref=e1]
+- link "百度指数" [ref=e2]
+- link "首页" [ref=e3]
+- link "最新动态" [ref=e4]
+- link "行业排行" [ref=e5]
+- generic "限时福利" [ref=e6]
+- link "帮助中心" [ref=e8]
+- generic "妍花盛开" [ref=e9]
+- textbox "请输入你感兴趣的词" [ref=e10] [focused] [placeholder="请输入你感兴趣的词"]: "ultherapy,ultherapy prime,超声刀,美版超声刀,韩版超声刀"
+- listitem "超声刀 关键词" [ref=e104]
+- listitem "美版超声刀 关键词" [ref=e105]
+- text: "关键词 ultherapy,ultherapy prime,韩版超声刀 未被收录，如要查看相关数据，您需要购买创建新词的权限。\n        购买创建新词的权限后，您可以添加自己关注的关键词，添加后百度指数系统将在次日更新数据。"
+- link "立即购买" [ref=e98]
+- link [ref=e65]
+- iframe:
+  - button "open selection tools" [ref=f3e1]

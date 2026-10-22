@@ -1,0 +1,163 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "百度指数" [url=https://index.baidu.com/v2/main/index.html#/trend/%e6%b0%b4%e5%85%89%e9%92%88%e7%9a%84%e4%b8%bb%e8%a6%81%e5%8a%9f%e6%95%88%e5%92…]
+- image [ref=e1]
+- link "百度指数" [ref=e2]
+- link "首页" [ref=e3]
+- link "最新动态" [ref=e4]
+- link "行业排行" [ref=e5]
+- generic "限时福利" [ref=e6]
+- link "帮助中心" [ref=e8]
+- generic "妍花盛开" [ref=e9]
+- textbox "请输入你感兴趣的词" [ref=e10] [focused] [placeholder="请输入你感兴趣的词"]: "水光针的主要功效和副作用,水光针多少钱,洗纹身多少钱,激光脱毛多少钱,激光祛斑多少钱"
+- generic [ref=e85] [scrollable]:
+  - listitem "水光针的主要功效和副作用 关键词" [ref=e326]
+  - listitem "水光针多少钱 关键词" [ref=e327]
+  - listitem "洗纹身多少钱 关键词" [ref=e328]
+  - listitem "激光脱毛多少钱 关键词" [ref=e329]
+  - listitem "激光祛斑多少钱 关键词" [ref=e330]
+- generic "趋势研究" [ref=e12]
+- generic "需求图谱" [ref=e13]
+- generic "人群画像" [ref=e14]
+- text: "关键词"
+- textbox "水光针的主要功效和副作用" [ref=e320]
+- textbox "水光针多少钱" [ref=e321]
+- textbox "洗纹身多少钱" [ref=e322]
+- textbox "激光脱毛多少钱" [ref=e323]
+- textbox "激光祛斑多少钱" [ref=e324]
+- generic "确定" [ref=e325]
+- listitem "搜索指数?" [ref=e260]
+- label [ref=e261]:
+  - checkbox "对比时间段" [ref=e262] [hidden]
+  - text: "对比时间段"
+- text: "|"
+- button "2026-09-21 ~ 2026-10-20" [ref=e263]
+- text: "|"
+- button "近30天 ▾" [ref=e264]
+- text: "|"
+- button "PC+移动 ▾" [ref=e265]
+- text: "|"
+- button "全国 ▾" [ref=e266]
+- text: "|"
+- listbox [ref=e267]:
+  - label [ref=e268]:
+    - option "新闻头条" [ref=e269] [hidden] [checked] [selected]
+    - text: "新闻头条"
+  - label [ref=e270]:
+    - option "平均值" [ref=e271] [hidden]
+    - text: "平均值"
+- canvas [ref=e272] [size=1256x360]
+- canvas [ref=e288] [size=1256x400]
+- text: "2012\n         \n            2013\n         \n            2014\n         \n            2015\n         \n            2016\n         \n            2017\n         \n          …[+244 chars]"
+- columnheader: "关键词"
+- columnheader: "整体日均值"
+- columnheader: "移动日均值"
+- columnheader: "整体同比"
+- columnheader: "整体环比"
+- columnheader: "移动同比"
+- columnheader: "移动环比"
+- cell: "水光针的主要功效和副作用"
+- cell: "2,043"
+- cell: "2,024"
+- cell: "229%"
+- cell: "-16%"
+- cell: "242%"
+- cell: "-16%"
+- cell: "水光针多少钱"
+- cell: "124"
+- cell: "95"
+- cell: "51%"
+- cell: "45%"
+- cell: "89%"
+- cell: "28%"
+- cell: "洗纹身多少钱"
+- cell: "298"
+- cell: "281"
+- cell: "125%"
+- cell: "11%"
+- cell: "165%"
+- cell: "10%"
+- cell: "激光脱毛多少钱"
+- cell: "246"
+- cell: "223"
+- cell: "151%"
+- cell: "172%"
+- cell: "198%"
+- cell: "164%"
+- cell: "激光祛斑多少钱"
+- cell: "246"
+- cell: "223"
+- cell: "158%"
+- cell: "7%"
+- cell: "186%"
+- cell: "5%"
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- listitem "资讯关注?" [ref=e273]
+- listitem "资讯指数" [ref=e274]
+- button "2026-09-21 ~ 2026-10-20" [ref=e289]
+- text: "|"
+- button "近30天 ▾" [ref=e275]
+- text: "|"
+- button "全国 ▾" [ref=e276]
+- listbox [ref=e277]:
+  - label [ref=e278]:
+    - option "内容头条" [ref=e279] [hidden] [checked] [selected]
+    - text: "内容头条"
+  - label [ref=e280]:
+    - option "平均值" [ref=e281] [hidden]
+    - text: "平均值"
+- canvas [ref=e290] [size=1256x360]
+- canvas [ref=e291] [size=1256x400]
+- text: "资讯指数概览?"
+- columnheader: "关键词"
+- columnheader: "日均值"
+- columnheader: "同比"
+- columnheader: "环比"
+- columnheader
+- cell: "水光针的主要功效和副作用"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell
+- cell: "水光针多少钱"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell
+- cell: "洗纹身多少钱"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell
+- cell: "激光脱毛多少钱"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell
+- cell: "激光祛斑多少钱"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- heading "帮助" [level=4]:
+  - link "帮助" [ref=e47]
+- link "产品简介" [ref=e48]
+- link "使用方法" [ref=e49]
+- link "名词解释" [ref=e50]
+- link "模块简介" [ref=e51]
+- heading "相关数据服务" [level=4]
+- link "百度营销中心" [ref=e52]
+- link "百度智能云" [ref=e53]
+- link "百度推广" [ref=e54]
+- link "企业推广" [ref=e55]
+- heading "关注我们" [level=4]
+- link [ref=e56]
+- link [ref=e57]
+- text: "©2026 baidu"
+- link "使用百度指数前必读" [ref=e58]
+- link "百度指数版权声明" [ref=e59]
+- text: "京icp证030173号"
+- link "手机版" [ref=e60]
+- link [ref=e65]
+- iframe:
+  - button "open selection tools" [ref=f3e1]

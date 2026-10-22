@@ -1,0 +1,17 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "百度指数" [url=https://index.baidu.com/v2/main/index.html#/trend/%E7%83%AD%E7%8E%9B%E5%90%89%E8%83%BD%E7%BB%B4%E6%8C%81%E5%A4%9A%E4%B9%85?words…]
+- image [ref=e1]
+- link "百度指数" [ref=e2]
+- link "首页" [ref=e3]
+- link "最新动态" [ref=e4]
+- link "行业排行" [ref=e5]
+- generic "限时福利" [ref=e6]
+- link "帮助中心" [ref=e8]
+- generic "妍花盛开" [ref=e9]
+- textbox "请输入你感兴趣的词" [ref=e10] [focused] [placeholder="请输入你感兴趣的词"]: "热玛吉能维持多久,热玛吉多久做一次,热玛吉和超声刀哪个好,热玛吉官网,韩国热玛吉"
+- listitem "热玛吉官网 关键词" [ref=e73]
+- text: "关键词 热玛吉能维持多久,热玛吉多久做一次,热玛吉和超声刀哪个好,韩国热玛吉 未被收录，如要查看相关数据，您需要购买创建新词的权限。\n        购买创建新词的权限后，您可以添加自己关注的关键词，添加后百度指数系统将在次日更新数据。"
+- link "立即购买" [ref=e66]
+- link [ref=e65]
+- iframe:
+  - button "Open selection tools" [ref=f3e1]

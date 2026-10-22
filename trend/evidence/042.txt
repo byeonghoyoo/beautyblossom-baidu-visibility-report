@@ -1,0 +1,15 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "百度指数" [url=https://index.baidu.com/v2/main/index.html#/trend/%e7%8e%bb%e5%b0%bf%e9%85%b8%e5%89%af%e4%bd%9c%e7%94%a8?words=%e7%8e%bb%e5%b0%b…]
+- image [ref=e1]
+- link "百度指数" [ref=e2]
+- link "首页" [ref=e3]
+- link "最新动态" [ref=e4]
+- link "行业排行" [ref=e5]
+- generic "限时福利" [ref=e6]
+- link "帮助中心" [ref=e8]
+- generic "妍花盛开" [ref=e9]
+- textbox "请输入你感兴趣的词" [ref=e10] [focused] [placeholder="请输入你感兴趣的词"]: "玻尿酸副作用"
+- text: "关键词 玻尿酸副作用 暂不提供数据，请查询其他关键词。"
+- link [ref=e65]
+- iframe:
+  - button "open selection tools" [ref=f3e1]

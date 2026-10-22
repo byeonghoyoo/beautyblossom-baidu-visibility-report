@@ -1,0 +1,157 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "百度指数" [url=https://index.baidu.com/v2/main/index.html#/trend/%e6%b0%b4%e5%85%89%e9%92%88%e5%a4%9a%e5%b0%91%e9%92%b1?words=%e6%b0%b4%e5%85%8…]
+- image [ref=e1]
+- link "百度指数" [ref=e2]
+- link "首页" [ref=e3]
+- link "最新动态" [ref=e4]
+- link "行业排行" [ref=e5]
+- generic "限时福利" [ref=e6]
+- link "帮助中心" [ref=e8]
+- generic "妍花盛开" [ref=e9]
+- textbox "请输入你感兴趣的词" [ref=e10] [focused] [placeholder="请输入你感兴趣的词"]: "水光针多少钱,水光针的主要功效和副作用,热玛吉多少钱,热玛吉多少钱做一次,热玛吉价格"
+- generic "趋势研究" [ref=e12]
+- generic "需求图谱" [ref=e13]
+- generic "人群画像" [ref=e14]
+- text: "关键词"
+- textbox "水光针多少钱" [ref=e134]
+- textbox "水光针的主要功效和副作用" [ref=e135]
+- textbox "热玛吉多少钱" [ref=e136]
+- textbox "热玛吉多少钱做一次" [ref=e137]
+- textbox "热玛吉价格" [ref=e138]
+- generic "确定" [ref=e139]
+- listitem "搜索指数?" [ref=e21]
+- label [ref=e22]:
+  - checkbox "对比时间段" [ref=e23] [hidden]
+  - text: "对比时间段"
+- text: "|"
+- button "2026-09-21 ~ 2026-10-20" [ref=e24]
+- text: "|"
+- button "近30天 ▾" [ref=e25]
+- text: "|"
+- button "PC+移动 ▾" [ref=e26]
+- text: "|"
+- button "全国 ▾" [ref=e27]
+- text: "|"
+- listbox [ref=e28]:
+  - label [ref=e29]:
+    - option "新闻头条" [ref=e30] [hidden] [checked] [selected]
+    - text: "新闻头条"
+  - label [ref=e31]:
+    - option "平均值" [ref=e32] [hidden]
+    - text: "平均值"
+- canvas [ref=e33] [size=1256x360]
+- canvas [ref=e34] [size=1256x400]
+- text: "2012\n         \n            2013\n         \n            2014\n         \n            2015\n         \n            2016\n         \n            2017\n         \n          …[+244 chars]"
+- columnheader: "关键词"
+- columnheader: "整体日均值"
+- columnheader: "移动日均值"
+- columnheader: "整体同比"
+- columnheader: "整体环比"
+- columnheader: "移动同比"
+- columnheader: "移动环比"
+- cell: "水光针多少钱"
+- cell: "124"
+- cell: "95"
+- cell: "51%"
+- cell: "45%"
+- cell: "89%"
+- cell: "28%"
+- cell: "水光针的主要功效和副作用"
+- cell: "2,043"
+- cell: "2,024"
+- cell: "229%"
+- cell: "-16%"
+- cell: "242%"
+- cell: "-16%"
+- cell: "热玛吉多少钱"
+- cell: "201"
+- cell: "158"
+- cell: "36%"
+- cell: "-13%"
+- cell: "42%"
+- cell: "-22%"
+- cell: "热玛吉多少钱做一次"
+- cell: "10"
+- cell: "10"
+- cell: "-"
+- cell: "-49%"
+- cell: "-"
+- cell: "-49%"
+- cell: "热玛吉价格"
+- cell: "49"
+- cell: "40"
+- cell: "-62%"
+- cell: "-18%"
+- cell: "-60%"
+- cell: "-24%"
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- listitem "资讯关注?" [ref=e35]
+- listitem "资讯指数" [ref=e36]
+- button "2026-09-21 ~ 2026-10-20" [ref=e37]
+- text: "|"
+- button "近30天 ▾" [ref=e38]
+- text: "|"
+- button "全国 ▾" [ref=e39]
+- listbox [ref=e40]:
+  - label [ref=e41]:
+    - option "内容头条" [ref=e42] [hidden] [checked] [selected]
+    - text: "内容头条"
+  - label [ref=e43]:
+    - option "平均值" [ref=e44] [hidden]
+    - text: "平均值"
+- canvas [ref=e45] [size=1256x360]
+- canvas [ref=e46] [size=1256x400]
+- text: "2018\n         \n            2019\n         \n            2020\n         \n            2021\n         \n            2022\n         \n            2023\n         \n          …[+82 chars]"
+- columnheader: "关键词"
+- columnheader: "日均值"
+- columnheader: "同比"
+- columnheader: "环比"
+- columnheader
+- cell: "水光针多少钱"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell
+- cell: "水光针的主要功效和副作用"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell
+- cell: "热玛吉多少钱"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell
+- cell: "热玛吉多少钱做一次"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell
+- cell: "热玛吉价格"
+- cell: "0"
+- cell: "-94%"
+- cell: "-22%"
+- cell
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- heading "帮助" [level=4]:
+  - link "帮助" [ref=e47]
+- link "产品简介" [ref=e48]
+- link "使用方法" [ref=e49]
+- link "名词解释" [ref=e50]
+- link "模块简介" [ref=e51]
+- heading "相关数据服务" [level=4]
+- link "百度营销中心" [ref=e52]
+- link "百度智能云" [ref=e53]
+- link "百度推广" [ref=e54]
+- link "企业推广" [ref=e55]
+- heading "关注我们" [level=4]
+- link [ref=e56]
+- link [ref=e57]
+- text: "©2026 baidu"
+- link "使用百度指数前必读" [ref=e58]
+- link "百度指数版权声明" [ref=e59]
+- text: "京icp证030173号"
+- link "手机版" [ref=e60]
+- link [ref=e65]
+- iframe:
+  - button "open selection tools" [ref=f3e1]

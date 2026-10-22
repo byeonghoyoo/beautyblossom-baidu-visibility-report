@@ -1,0 +1,157 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "百度指数" [url=https://index.baidu.com/v2/main/index.html#/trend/%e7%83%ad%e7%8e%9b%e5%90%89%e6%95%88%e6%9e%9c?words=%e7%83%ad%e7%8e%9b%e5%90%8…]
+- image [ref=e1]
+- link "百度指数" [ref=e2]
+- link "首页" [ref=e3]
+- link "最新动态" [ref=e4]
+- link "行业排行" [ref=e5]
+- generic "限时福利" [ref=e6]
+- link "帮助中心" [ref=e8]
+- generic "妍花盛开" [ref=e9]
+- textbox "请输入你感兴趣的词" [ref=e10] [focused] [placeholder="请输入你感兴趣的词"]: "热玛吉效果,热玛吉官网,瘦脸针,瘦脸针多少钱,瘦腿针"
+- generic "趋势研究" [ref=e12]
+- generic "需求图谱" [ref=e13]
+- generic "人群画像" [ref=e14]
+- text: "关键词"
+- textbox "热玛吉效果" [ref=e140]
+- textbox "热玛吉官网" [ref=e141]
+- textbox "瘦脸针" [ref=e142]
+- textbox "瘦脸针多少钱" [ref=e143]
+- textbox "瘦腿针" [ref=e144]
+- generic "确定" [ref=e145]
+- listitem "搜索指数?" [ref=e21]
+- label [ref=e22]:
+  - checkbox "对比时间段" [ref=e23] [hidden]
+  - text: "对比时间段"
+- text: "|"
+- button "2026-09-21 ~ 2026-10-20" [ref=e24]
+- text: "|"
+- button "近30天 ▾" [ref=e25]
+- text: "|"
+- button "PC+移动 ▾" [ref=e26]
+- text: "|"
+- button "全国 ▾" [ref=e27]
+- text: "|"
+- listbox [ref=e28]:
+  - label [ref=e29]:
+    - option "新闻头条" [ref=e30] [hidden] [checked] [selected]
+    - text: "新闻头条"
+  - label [ref=e31]:
+    - option "平均值" [ref=e32] [hidden]
+    - text: "平均值"
+- canvas [ref=e33] [size=1256x360]
+- canvas [ref=e34] [size=1256x400]
+- text: "2012\n         \n            2013\n         \n            2014\n         \n            2015\n         \n            2016\n         \n            2017\n         \n          …[+244 chars]"
+- columnheader: "关键词"
+- columnheader: "整体日均值"
+- columnheader: "移动日均值"
+- columnheader: "整体同比"
+- columnheader: "整体环比"
+- columnheader: "移动同比"
+- columnheader: "移动环比"
+- cell: "热玛吉效果"
+- cell: "0"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell: "-"
+- cell: "-"
+- cell: "热玛吉官网"
+- cell: "25"
+- cell: "17"
+- cell: "-"
+- cell: "-52%"
+- cell: "-"
+- cell: "-56%"
+- cell: "瘦脸针"
+- cell: "164"
+- cell: "109"
+- cell: "-32%"
+- cell: "3%"
+- cell: "-41%"
+- cell: "-"
+- cell: "瘦脸针多少钱"
+- cell: "99"
+- cell: "85"
+- cell: "-39%"
+- cell: "1%"
+- cell: "-28%"
+- cell: "-"
+- cell: "瘦腿针"
+- cell: "365"
+- cell: "345"
+- cell: "-8%"
+- cell: "-16%"
+- cell: "-6%"
+- cell: "-16%"
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- listitem "资讯关注?" [ref=e35]
+- listitem "资讯指数" [ref=e36]
+- button "2026-09-21 ~ 2026-10-20" [ref=e37]
+- text: "|"
+- button "近30天 ▾" [ref=e38]
+- text: "|"
+- button "全国 ▾" [ref=e39]
+- listbox [ref=e40]:
+  - label [ref=e41]:
+    - option "内容头条" [ref=e42] [hidden] [checked] [selected]
+    - text: "内容头条"
+  - label [ref=e43]:
+    - option "平均值" [ref=e44] [hidden]
+    - text: "平均值"
+- canvas [ref=e45] [size=1256x360]
+- canvas [ref=e46] [size=1256x400]
+- text: "2018\n         \n            2019\n         \n            2020\n         \n            2021\n         \n            2022\n         \n            2023\n         \n          …[+82 chars]"
+- columnheader: "关键词"
+- columnheader: "日均值"
+- columnheader: "同比"
+- columnheader: "环比"
+- columnheader
+- cell: "热玛吉效果"
+- cell: "3"
+- cell: "-83%"
+- cell: "-68%"
+- cell
+- cell: "热玛吉官网"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell
+- cell: "瘦脸针"
+- cell: "3,866"
+- cell: "-32%"
+- cell: "54%"
+- cell
+- cell: "瘦脸针多少钱"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell
+- cell: "瘦腿针"
+- cell: "51"
+- cell: "-75%"
+- cell: "22%"
+- cell
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- heading "帮助" [level=4]:
+  - link "帮助" [ref=e47]
+- link "产品简介" [ref=e48]
+- link "使用方法" [ref=e49]
+- link "名词解释" [ref=e50]
+- link "模块简介" [ref=e51]
+- heading "相关数据服务" [level=4]
+- link "百度营销中心" [ref=e52]
+- link "百度智能云" [ref=e53]
+- link "百度推广" [ref=e54]
+- link "企业推广" [ref=e55]
+- heading "关注我们" [level=4]
+- link [ref=e56]
+- link [ref=e57]
+- text: "©2026 baidu"
+- link "使用百度指数前必读" [ref=e58]
+- link "百度指数版权声明" [ref=e59]
+- text: "京icp证030173号"
+- link "手机版" [ref=e60]
+- link [ref=e65]
+- iframe:
+  - button "open selection tools" [ref=f3e1]

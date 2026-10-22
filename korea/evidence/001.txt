@@ -1,0 +1,19 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "百度指数" [url=https://index.baidu.com/v2/main/index.html#/trend/%E9%9F%A9%E5%9B%BD?words=%E9%9F%A9%E5%9B%BD,%E9%9F%A9%E5%9B%BD%E6%97%85%E6%B8%…]
+- image [ref=e1]
+- link "百度指数" [ref=e2]
+- link "首页" [ref=e3]
+- link "最新动态" [ref=e4]
+- link "行业排行" [ref=e5]
+- generic "限时福利" [ref=e6]
+- link "帮助中心" [ref=e8]
+- generic "妍花盛开" [ref=e9]
+- textbox "请输入你感兴趣的词" [ref=e10] [focused] [placeholder="请输入你感兴趣的词"]: "韩国,韩国旅游,韩国签证,韩国留学,韩国电影"
+- listitem "韩国 关键词" [ref=e434]
+- listitem "韩国旅游 关键词" [ref=e435]
+- listitem "韩国签证 关键词" [ref=e436]
+- listitem "韩国留学 关键词" [ref=e437]
+- text: "关键词 韩国电影 暂不提供数据，请查询其他关键词。"
+- link [ref=e65]
+- iframe:
+  - button "Open selection tools" [ref=f3e1]

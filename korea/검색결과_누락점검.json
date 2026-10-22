@@ -1,0 +1,166 @@
+{
+  "observed_at": "2026-10-22T02:57:54.969Z",
+  "observed_date_kst": "2026-10-22",
+  "note": "韩国 autocomplete is personalized (logged-in Baidu account; first 3-4 items relate to the account owner history, e.g. 弘大 beauty blossom). Related search = SERP 相关搜索.",
+  "queries": {
+    "韩国": {
+      "suggest": [
+        "韩国 弘大 皮肤管理 beauty blossom",
+        "韩国 股市指数",
+        "韩国 弘大皮肤科",
+        "韩国 皮肤科 官网",
+        "韩国 电影片",
+        "韩国 股市行情",
+        "韩国 股市",
+        "韩国 大片",
+        "韩国 指数",
+        "韩国 电影韩剧免费观看在线BD"
+      ],
+      "topRelated": [
+        "韩国大片",
+        "韩国原版",
+        "韩国的爽剧",
+        "韩国主播",
+        "韩国哺乳期水乳",
+        "韩国韩剧全集在线看"
+      ],
+      "bottomRelated": [
+        "在线观看免费高清完整版韩剧TV",
+        "韩剧HD免费版在线观看视频",
+        "韩国韩剧在线播放大片",
+        "韩剧HD大全",
+        "免费看韩剧网站",
+        "在线观看B站必看的韩剧",
+        "韩妹妹",
+        "好看的韩国美国",
+        "韩国大片",
+        "韩国原版"
+      ],
+      "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD"
+    },
+    "韩国旅游": {
+      "suggest": [
+        "韩国旅游 签证办理",
+        "韩国旅游 攻略",
+        "韩国旅游 攻略自由行",
+        "韩国旅游 发展局",
+        "韩国旅游 哪里好玩",
+        "韩国旅游 攻略必去景点",
+        "韩国旅游 签证条件要求",
+        "韩国旅游 安全吗?",
+        "韩国旅游 需要多少钱",
+        "韩国旅游 需要签证吗"
+      ],
+      "topRelated": [],
+      "bottomRelated": [],
+      "url": "https://wappass.baidu.com/static/captcha/tuxing_v2.html",
+      "serp_status": "BLOCKED_CAPTCHA (wappass.baidu.com tuxing_v2 image captcha, 2 attempts); not bypassed"
+    },
+    "韩国签证": {
+      "suggest": [
+        "韩国签证 政策",
+        "韩国签证 进度官网",
+        "韩国签证 预约上海",
+        "韩国签证 打印",
+        "韩国签证 进度怎么查询",
+        "韩国签证 办理要求和条件",
+        "韩国签证 申请中心官网",
+        "韩国签证 查询网址",
+        "韩国签证 上海中心",
+        "韩国签证 查询方式"
+      ],
+      "topRelated": [],
+      "bottomRelated": [
+        "去韩国的签证怎么办",
+        "签证办理进度查询",
+        "韩国签证需要多少钱",
+        "韩国签证网上申请官网",
+        "www.visa.go.kr查询签证",
+        "查询我的签证",
+        "办理韩国签证条件",
+        "西班牙非盈利签证",
+        "2026韩国签证最新条件",
+        "韩国签证要多久才能办下来"
+      ],
+      "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%AD%BE%E8%AF%81"
+    }
+  },
+  "highlights_not_in_parent_candidates": [
+    {
+      "term": "韩国旅游 签证办理",
+      "type": "autocomplete",
+      "src": "韩国旅游"
+    },
+    {
+      "term": "韩国旅游 签证条件要求",
+      "type": "autocomplete",
+      "src": "韩国旅游"
+    },
+    {
+      "term": "韩国旅游 需要签证吗",
+      "type": "autocomplete",
+      "src": "韩国旅游"
+    },
+    {
+      "term": "韩国旅游 安全吗?",
+      "type": "autocomplete(치안)",
+      "src": "韩国旅游"
+    },
+    {
+      "term": "韩国旅游 需要多少钱",
+      "type": "autocomplete(예산)",
+      "src": "韩国旅游"
+    },
+    {
+      "term": "韩国旅游 攻略自由行 / 攻略必去景点",
+      "type": "autocomplete",
+      "src": "韩国旅游"
+    },
+    {
+      "term": "韩国旅游 发展局",
+      "type": "autocomplete",
+      "src": "韩国旅游"
+    },
+    {
+      "term": "韩国签证 进度怎么查询 / 进度官网",
+      "type": "autocomplete",
+      "src": "韩国签证"
+    },
+    {
+      "term": "韩国签证 预约上海 / 上海中心 / 申请中心官网",
+      "type": "autocomplete",
+      "src": "韩国签证"
+    },
+    {
+      "term": "韩国签证 打印",
+      "type": "autocomplete",
+      "src": "韩国签证"
+    },
+    {
+      "term": "韩国签证需要多少钱",
+      "type": "related(bottom)",
+      "src": "韩国签证"
+    },
+    {
+      "term": "2026韩国签证最新条件",
+      "type": "related(bottom)",
+      "src": "韩国签证"
+    },
+    {
+      "term": "韩国签证要多久才能办下来",
+      "type": "related(bottom)",
+      "src": "韩国签证"
+    },
+    {
+      "term": "www.visa.go.kr查询签证",
+      "type": "related(bottom)",
+      "src": "韩国签证"
+    },
+    {
+      "term": "韩国哺乳期水乳 / 韩国主播 / 韩国的爽剧",
+      "type": "related(top)",
+      "src": "韩国"
+    }
+  ],
+  "serp_widget_韩国": "Baidu travel widget tabs: 汇率/签证/跟团; 热门目的地 首尔21.6W, 济州市8.9W, 西归浦市2.7W, 仁川2.5W, 釜山2.4W人当前想去 (as observed)"
+}

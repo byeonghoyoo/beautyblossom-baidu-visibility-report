@@ -1,0 +1,130 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "百度指数" [url=https://index.baidu.com/v2/main/index.html#/trend/%E9%9F%A9%E5%9B%BD%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5?words=%E9%9F%A9%E5%9B%B…]
+- image [ref=e1]
+- link "百度指数" [ref=e2]
+- link "首页" [ref=e3]
+- link "最新动态" [ref=e4]
+- link "行业排行" [ref=e5]
+- generic "限时福利" [ref=e6]
+- link "帮助中心" [ref=e8]
+- generic "妍花盛开" [ref=e9]
+- textbox "请输入你感兴趣的词" [ref=e10] [focused] [placeholder="请输入你感兴趣的词"]: "韩国旅游攻略,韩国自由行,韩国酒店,韩国免签"
+- listitem "韩国旅游攻略 关键词" [ref=e578]
+- listitem "韩国自由行 关键词" [ref=e579]
+- listitem "韩国酒店 关键词" [ref=e580]
+- listitem "韩国免签 关键词" [ref=e581]
+- generic "趋势研究" [ref=e12]
+- generic "需求图谱" [ref=e13]
+- generic "人群画像" [ref=e14]
+- text: "关键词"
+- textbox "韩国旅游攻略" [ref=e582]
+- textbox "韩国自由行" [ref=e583]
+- textbox "韩国酒店" [ref=e584]
+- textbox "韩国免签" [ref=e585]
+- generic "添加对比" [ref=e586]
+- generic "确定" [ref=e587]
+- listitem "搜索指数?" [ref=e468]
+- label [ref=e469]:
+  - checkbox "对比时间段" [ref=e470] [hidden]
+  - text: "对比时间段"
+- text: "|"
+- button "2026-09-21 ~ 2026-10-20" [ref=e471]
+- text: "|"
+- button "近30天 ▾" [ref=e472]
+- text: "|"
+- button "PC+移动 ▾" [ref=e473]
+- text: "|"
+- button "全国 ▾" [ref=e474]
+- text: "|"
+- listbox [ref=e475]:
+  - label [ref=e476]:
+    - option "新闻头条" [ref=e477] [hidden] [checked] [selected]
+    - text: "新闻头条"
+  - label [ref=e478]:
+    - option "平均值" [ref=e479] [hidden]
+    - text: "平均值"
+- canvas [ref=e480] [size=1256x360]
+- canvas [ref=e496] [size=1256x400]
+- text: "搜索指数概览?"
+- columnheader: "关键词"
+- columnheader: "整体日均值"
+- columnheader: "移动日均值"
+- columnheader: "整体同比"
+- columnheader: "整体环比"
+- columnheader: "移动同比"
+- columnheader: "移动环比"
+- cell: "韩国旅游攻略"
+- cell: "141"
+- cell: "91"
+- cell: "23%"
+- cell: "-4%"
+- cell: "34%"
+- cell: "-9%"
+- cell: "韩国自由行"
+- cell: "0"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell: "-"
+- cell: "-"
+- cell: "韩国酒店"
+- cell: "98"
+- cell: "58"
+- cell: "11%"
+- cell: "1%"
+- cell: "6%"
+- cell: "6%"
+- cell: "韩国免签"
+- cell: "167"
+- cell: "99"
+- cell: "-63%"
+- cell: "8%"
+- cell: "-66%"
+- cell: "6%"
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- listitem "资讯关注?" [ref=e481]
+- listitem "资讯指数" [ref=e482]
+- button "2026-09-21 ~ 2026-10-20" [ref=e497]
+- text: "|"
+- button "近30天 ▾" [ref=e483]
+- text: "|"
+- button "全国 ▾" [ref=e484]
+- listbox [ref=e485]:
+  - label [ref=e486]:
+    - option "内容头条" [ref=e487] [hidden] [checked] [selected]
+    - text: "内容头条"
+  - label [ref=e488]:
+    - option "平均值" [ref=e489] [hidden]
+    - text: "平均值"
+- canvas [ref=e498] [size=1256x360]
+- canvas [ref=e499] [size=1256x400]
+- text: "资讯指数概览?"
+- columnheader: "关键词"
+- columnheader: "日均值"
+- columnheader: "同比"
+- columnheader: "环比"
+- columnheader
+- cell: "没有数据"
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- heading "帮助" [level=4]:
+  - link "帮助" [ref=e47]
+- link "产品简介" [ref=e48]
+- link "使用方法" [ref=e49]
+- link "名词解释" [ref=e50]
+- link "模块简介" [ref=e51]
+- heading "相关数据服务" [level=4]
+- link "百度营销中心" [ref=e52]
+- link "百度智能云" [ref=e53]
+- link "百度推广" [ref=e54]
+- link "企业推广" [ref=e55]
+- heading "关注我们" [level=4]
+- link [ref=e56]
+- link [ref=e57]
+- text: "©2026 Baidu"
+- link "使用百度指数前必读" [ref=e58]
+- link "百度指数版权声明" [ref=e59]
+- text: "京ICP证030173号"
+- link "手机版" [ref=e60]
+- link [ref=e65]
+- iframe:
+  - button "Open selection tools" [ref=f3e1]

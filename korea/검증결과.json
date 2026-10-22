@@ -1,0 +1,22 @@
+{
+  "result": "PASS",
+  "uniqueKeywords": 80,
+  "positive": 59,
+  "zero": 2,
+  "notIndexed": 17,
+  "unavailable": 2,
+  "period": "2026-09-21 ~ 2026-10-20",
+  "checks": [
+    "최신 확정 기록 전수 대조",
+    "최종 sourceRun별 증거 텍스트 전수 대조",
+    "미수록·현재 미제공과 지수 0 분리",
+    "콤마 숫자 변환 및 증감률 보존"
+  ],
+  "obsoleteEvidence": [
+    "008.txt: 최종 데이터에서 사용하지 않음"
+  ],
+  "unchecked": [
+    "한국 여행 검색결과 연관검색: CAPTCHA"
+  ],
+  "checkedAt": "2026-10-22T03:03:04.330Z"
+}

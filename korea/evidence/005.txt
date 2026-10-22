@@ -1,0 +1,20 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "百度指数" [url=https://index.baidu.com/v2/main/index.html#/trend/%E9%9F%A9%E5%9B%BD%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5?words=%E9%9F%A9%E5%9B%B…]
+- image [ref=e1]
+- link "百度指数" [ref=e2]
+- link "首页" [ref=e3]
+- link "最新动态" [ref=e4]
+- link "行业排行" [ref=e5]
+- generic "限时福利" [ref=e6]
+- link "帮助中心" [ref=e8]
+- generic "妍花盛开" [ref=e9]
+- textbox "请输入你感兴趣的词" [ref=e10] [focused] [placeholder="请输入你感兴趣的词"]: "韩国旅游攻略,韩国自由行,韩国机票,韩国酒店,韩国免签"
+- listitem "韩国旅游攻略 关键词" [ref=e523]
+- listitem "韩国自由行 关键词" [ref=e524]
+- listitem "韩国酒店 关键词" [ref=e525]
+- listitem "韩国免签 关键词" [ref=e526]
+- text: "关键词 韩国机票 未被收录，如要查看相关数据，您需要购买创建新词的权限。\n        购买创建新词的权限后，您可以添加自己关注的关键词，添加后百度指数系统将在次日更新数据。"
+- link "立即购买" [ref=e527]
+- link [ref=e65]
+- iframe:
+  - button "Open selection tools" [ref=f3e1]

@@ -1,0 +1,164 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "百度指数" [url=https://index.baidu.com/v2/main/index.html#/trend/%E9%9F%A9%E5%9B%BD%E7%95%99%E5%AD%A6%E8%B4%B9%E7%94%A8?words=%E9%9F%A9%E5%9B%B…]
+- image [ref=e1]
+- link "百度指数" [ref=e2]
+- link "首页" [ref=e3]
+- link "最新动态" [ref=e4]
+- link "行业排行" [ref=e5]
+- generic "限时福利" [ref=e6]
+- link "帮助中心" [ref=e8]
+- generic "妍花盛开" [ref=e9]
+- textbox "请输入你感兴趣的词" [ref=e10] [focused] [placeholder="请输入你感兴趣的词"]: "韩国留学费用,韩国大学,首尔大学,韩语,韩语学习"
+- generic [ref=e85] [scrollable]:
+  - listitem "韩国留学费用 关键词" [ref=e562]
+  - listitem "韩国大学 关键词" [ref=e563]
+  - listitem "首尔大学 关键词" [ref=e564]
+  - listitem "韩语 关键词" [ref=e565]
+  - listitem "韩语学习 关键词" [ref=e566]
+- generic "趋势研究" [ref=e12]
+- generic "需求图谱" [ref=e13]
+- generic "人群画像" [ref=e14]
+- text: "关键词"
+- textbox "韩国留学费用" [ref=e556]
+- textbox "韩国大学" [ref=e557]
+- textbox "首尔大学" [ref=e558]
+- button [ref=e567]
+- textbox "韩语" [ref=e559]
+- textbox "韩语学习" [ref=e560]
+- generic "确定" [ref=e561]
+- listitem "搜索指数?" [ref=e468]
+- label [ref=e469]:
+  - checkbox "对比时间段" [ref=e470] [hidden]
+  - text: "对比时间段"
+- text: "|"
+- button "2026-09-21 ~ 2026-10-20" [ref=e471]
+- text: "|"
+- button "近30天 ▾" [ref=e472]
+- text: "|"
+- button "PC+移动 ▾" [ref=e473]
+- text: "|"
+- button "全国 ▾" [ref=e474]
+- text: "|"
+- listbox [ref=e475]:
+  - label [ref=e476]:
+    - option "新闻头条" [ref=e477] [hidden] [checked] [selected]
+    - text: "新闻头条"
+  - label [ref=e478]:
+    - option "平均值" [ref=e479] [hidden]
+    - text: "平均值"
+- canvas [ref=e480] [size=1256x360]
+- canvas [ref=e496] [size=1256x400]
+- text: "2012\n         \n            2013\n         \n            2014\n         \n            2015\n         \n            2016\n         \n            2017\n         \n          …[+244 chars]"
+- columnheader: "关键词"
+- columnheader: "整体日均值"
+- columnheader: "移动日均值"
+- columnheader: "整体同比"
+- columnheader: "整体环比"
+- columnheader: "移动同比"
+- columnheader: "移动环比"
+- cell: "韩国留学费用"
+- cell: "106"
+- cell: "87"
+- cell: "210%"
+- cell: "17%"
+- cell: "255%"
+- cell: "21%"
+- cell: "韩国大学"
+- cell: "158"
+- cell: "104"
+- cell: "-33%"
+- cell: "-8%"
+- cell: "-41%"
+- cell: "-14%"
+- cell: "首尔大学"
+- cell: "573"
+- cell: "495"
+- cell: "57%"
+- cell: "62%"
+- cell: "77%"
+- cell: "76%"
+- cell: "韩语"
+- cell: "545"
+- cell: "425"
+- cell: "-46%"
+- cell: "1%"
+- cell: "-51%"
+- cell: "-3%"
+- cell: "韩语学习"
+- cell: "189"
+- cell: "128"
+- cell: "-44%"
+- cell: "-15%"
+- cell: "-53%"
+- cell: "-18%"
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- listitem "资讯关注?" [ref=e481]
+- listitem "资讯指数" [ref=e482]
+- button "2026-09-21 ~ 2026-10-20" [ref=e497]
+- text: "|"
+- button "近30天 ▾" [ref=e483]
+- text: "|"
+- button "全国 ▾" [ref=e484]
+- listbox [ref=e485]:
+  - label [ref=e486]:
+    - option "内容头条" [ref=e487] [hidden] [checked] [selected]
+    - text: "内容头条"
+  - label [ref=e488]:
+    - option "平均值" [ref=e489] [hidden]
+    - text: "平均值"
+- canvas [ref=e498] [size=1256x360]
+- canvas [ref=e499] [size=1256x400]
+- text: "2018\n         \n            2019\n         \n            2020\n         \n            2021\n         \n            2022\n         \n            2023\n         \n          …[+82 chars]"
+- columnheader: "关键词"
+- columnheader: "日均值"
+- columnheader: "同比"
+- columnheader: "环比"
+- columnheader
+- cell: "韩国留学费用"
+- cell: "0"
+- cell: "-"
+- cell: "-"
+- cell
+- cell: "韩国大学"
+- cell: "9,865"
+- cell: "-27%"
+- cell: "-35%"
+- cell
+- cell: "首尔大学"
+- cell: "1,670"
+- cell: "-87%"
+- cell: "33%"
+- cell
+- cell: "韩语"
+- cell: "94,583"
+- cell: "-48%"
+- cell: "-16%"
+- cell
+- cell: "韩语学习"
+- cell: "183"
+- cell: "-64%"
+- cell: "-16%"
+- cell
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- heading "帮助" [level=4]:
+  - link "帮助" [ref=e47]
+- link "产品简介" [ref=e48]
+- link "使用方法" [ref=e49]
+- link "名词解释" [ref=e50]
+- link "模块简介" [ref=e51]
+- heading "相关数据服务" [level=4]
+- link "百度营销中心" [ref=e52]
+- link "百度智能云" [ref=e53]
+- link "百度推广" [ref=e54]
+- link "企业推广" [ref=e55]
+- heading "关注我们" [level=4]
+- link [ref=e56]
+- link [ref=e57]
+- text: "©2026 Baidu"
+- link "使用百度指数前必读" [ref=e58]
+- link "百度指数版权声明" [ref=e59]
+- text: "京ICP证030173号"
+- link "手机版" [ref=e60]
+- link [ref=e65]
+- iframe:
+  - button "Open selection tools" [ref=f3e1]

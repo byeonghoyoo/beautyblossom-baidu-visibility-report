@@ -1,0 +1,163 @@
+# note: interactive (clickable / focusable) elements only.
+- title: "百度指数" [url=https://index.baidu.com/v2/main/index.html#/trend/%E9%9F%A9%E5%89%A7?words=%E9%9F%A9%E5%89%A7,%E9%9F%A9%E5%9B%BD%E7%94%B5%E8%A7%…]
+- image [ref=e1]
+- link "百度指数" [ref=e2]
+- link "首页" [ref=e3]
+- link "最新动态" [ref=e4]
+- link "行业排行" [ref=e5]
+- generic "限时福利" [ref=e6]
+- link "帮助中心" [ref=e8]
+- generic "妍花盛开" [ref=e9]
+- textbox "请输入你感兴趣的词" [ref=e10] [focused] [placeholder="请输入你感兴趣的词"]: "韩剧,韩国电视剧,韩国综艺,韩国明星,韩国音乐"
+- generic [ref=e85] [scrollable]:
+  - listitem "韩剧 关键词" [ref=e500]
+  - listitem "韩国电视剧 关键词" [ref=e501]
+  - listitem "韩国综艺 关键词" [ref=e502]
+  - listitem "韩国明星 关键词" [ref=e503]
+  - listitem "韩国音乐 关键词" [ref=e504]
+- generic "趋势研究" [ref=e12]
+- generic "需求图谱" [ref=e13]
+- generic "人群画像" [ref=e14]
+- text: "关键词"
+- textbox "韩剧" [ref=e490]
+- textbox "韩国电视剧" [ref=e491]
+- textbox "韩国综艺" [ref=e492]
+- textbox "韩国明星" [ref=e493]
+- textbox "韩国音乐" [ref=e494]
+- generic "确定" [ref=e495]
+- listitem "搜索指数?" [ref=e468]
+- label [ref=e469]:
+  - checkbox "对比时间段" [ref=e470] [hidden]
+  - text: "对比时间段"
+- text: "|"
+- button "2026-09-21 ~ 2026-10-20" [ref=e471]
+- text: "|"
+- button "近30天 ▾" [ref=e472]
+- text: "|"
+- button "PC+移动 ▾" [ref=e473]
+- text: "|"
+- button "全国 ▾" [ref=e474]
+- text: "|"
+- listbox [ref=e475]:
+  - label [ref=e476]:
+    - option "新闻头条" [ref=e477] [hidden] [checked] [selected]
+    - text: "新闻头条"
+  - label [ref=e478]:
+    - option "平均值" [ref=e479] [hidden]
+    - text: "平均值"
+- canvas [ref=e480] [size=1256x360]
+- canvas [ref=e496] [size=1256x400]
+- text: "搜索指数概览?"
+- columnheader: "关键词"
+- columnheader: "整体日均值"
+- columnheader: "移动日均值"
+- columnheader: "整体同比"
+- columnheader: "整体环比"
+- columnheader: "移动同比"
+- columnheader: "移动环比"
+- cell: "韩剧"
+- cell: "7,847"
+- cell: "7,318"
+- cell: "-6%"
+- cell: "20%"
+- cell: "-4%"
+- cell: "18%"
+- cell: "韩国电视剧"
+- cell: "988"
+- cell: "871"
+- cell: "-2%"
+- cell: "5%"
+- cell: "-1%"
+- cell: "3%"
+- cell: "韩国综艺"
+- cell: "537"
+- cell: "434"
+- cell: "-12%"
+- cell: "10%"
+- cell: "-14%"
+- cell: "5%"
+- cell: "韩国明星"
+- cell: "236"
+- cell: "170"
+- cell: "-26%"
+- cell: "-"
+- cell: "-30%"
+- cell: "-"
+- cell: "韩国音乐"
+- cell: "85"
+- cell: "60"
+- cell: "-16%"
+- cell: "23%"
+- cell: "-20%"
+- cell: "15%"
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- listitem "资讯关注?" [ref=e481]
+- listitem "资讯指数" [ref=e482]
+- button "2026-09-21 ~ 2026-10-20" [ref=e497]
+- text: "|"
+- button "近30天 ▾" [ref=e483]
+- text: "|"
+- button "全国 ▾" [ref=e484]
+- listbox [ref=e485]:
+  - label [ref=e486]:
+    - option "内容头条" [ref=e487] [hidden] [checked] [selected]
+    - text: "内容头条"
+  - label [ref=e488]:
+    - option "平均值" [ref=e489] [hidden]
+    - text: "平均值"
+- canvas [ref=e498] [size=1256x360]
+- canvas [ref=e499] [size=1256x400]
+- text: "资讯指数概览?"
+- columnheader: "关键词"
+- columnheader: "日均值"
+- columnheader: "同比"
+- columnheader: "环比"
+- columnheader
+- cell: "韩剧"
+- cell: "1,519,840"
+- cell: "-53%"
+- cell: "-15%"
+- cell
+- cell: "韩国电视剧"
+- cell: "55,125"
+- cell: "-64%"
+- cell: "2%"
+- cell
+- cell: "韩国综艺"
+- cell: "64,510"
+- cell: "-20%"
+- cell: "6%"
+- cell
+- cell: "韩国明星"
+- cell: "54,797"
+- cell: "-53%"
+- cell: "-19%"
+- cell
+- cell: "韩国音乐"
+- cell: "97"
+- cell: "-77%"
+- cell: "-89%"
+- cell
+- text: "数据更新时间：每天12~16时，受数据波动影响，可能会有延迟。"
+- heading "帮助" [level=4]:
+  - link "帮助" [ref=e47]
+- link "产品简介" [ref=e48]
+- link "使用方法" [ref=e49]
+- link "名词解释" [ref=e50]
+- link "模块简介" [ref=e51]
+- heading "相关数据服务" [level=4]
+- link "百度营销中心" [ref=e52]
+- link "百度智能云" [ref=e53]
+- link "百度推广" [ref=e54]
+- link "企业推广" [ref=e55]
+- heading "关注我们" [level=4]
+- link [ref=e56]
+- link [ref=e57]
+- text: "©2026 Baidu"
+- link "使用百度指数前必读" [ref=e58]
+- link "百度指数版权声明" [ref=e59]
+- text: "京ICP证030173号"
+- link "手机版" [ref=e60]
+- link [ref=e65]
+- iframe:
+  - button "Open selection tools" [ref=f3e1]
